@@ -1,0 +1,6 @@
+To install a package
+install.packages("package name")
+
+Once installed to load the package
+use the command 
+library(package name)
