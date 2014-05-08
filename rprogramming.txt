@@ -29,5 +29,7 @@ git remote add origin https://github.com/guberand/practice.git
 
 
 // to push file to remote repo
-
 git push origin master
+
+// to pull file from remote
+git pull origin master
