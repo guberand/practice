@@ -4,3 +4,30 @@ install.packages("package name")
 Once installed to load the package
 use the command 
 library(package name)
+
+
+Git bash commands
+
+//To initiate a repo
+Git repo REPO-NAME
+
+//change directory 
+cd repo-name
+
+//touch FILENAME
+Access the file in local folder make the necessary changes save it as txt file in this example and save& close it. 
+
+//to add version control
+git add . ( for all files)
+git add  filename.ext ( for a specific file)
+
+//to commit a file 
+git commit -m "comment"
+
+//to setup remote repository 
+git remote add origin https://github.com/guberand/practice.git
+
+
+// to push file to remote repo
+
+git push origin master
