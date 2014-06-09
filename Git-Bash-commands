@@ -1,11 +1,3 @@
-To install a package
-install.packages("package name")
-
-Once installed to load the package
-use the command 
-library(package name)
-
-
 Git bash commands
 
 //To initiate a repo
@@ -32,3 +24,8 @@ git push origin master
 
 // to pull file from remote
 git pull origin master
+
+
+//Access Github files locally
+
+git clone "clone url from github"
